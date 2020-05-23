@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+body{
+ background: #444;
+ color: black;
+}
+
+#contenedor {
+  width: 700px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+#cabecera {
+  background: #786FF5;
+  height: 50px;
+}
+
+#cabecera h1{
+  line-height: 50px;
+  font-size: 20px;
+}
+
+#menu {
+  float: left;
+  width: 15%;
+  height: 150px;
+  background: #149AE4;
+}
+
+#menu h2{
+  line-height: 150px;
+  font-size: 30px;
+}
+
+#contenido {
+  float: left;
+  height: 370px;
+  width: 85%;
+  background: #FFFF95;
+}
+
+#contenido h2{
+  line-height: 400px;
+  font-size: 50px;
+}
+
+#pie {
+  clear: both;
+  background: #E8EE1D;
+  height: 30px;
+}
+
+#pie h2{
+  line-height: 30px;
+}
