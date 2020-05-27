@@ -10,7 +10,7 @@ body{
 }
 
 #contenedor {
-  width: 700px;
+  width: 90%;
   margin: auto;
   margin-top: 40px;
 }
@@ -58,3 +58,4 @@ body{
 #pie h2{
   line-height: 30px;
 }
+
